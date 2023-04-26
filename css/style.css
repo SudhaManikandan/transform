@@ -1,0 +1,34 @@
+body{
+	background-color:black;
+	color:white;
+}
+
+div.a{
+  width: 150px;
+  height: 80px;
+  transform: rotate(20deg); 
+}
+
+div.b{
+  width: 150px;
+  height: 80px;
+  transform: skewx(10deg); 
+}
+
+div.c{
+  width: 150px;
+  height: 80px;
+  transform: skewY(10deg); 
+}
+
+div.d {
+  width: 150px;
+  height: 25px;
+ transform: scaleX(1.5);
+}
+
+div.e {
+  width: 150px;
+  height: 50px;
+ transform: scaleY(1.5);
+}
